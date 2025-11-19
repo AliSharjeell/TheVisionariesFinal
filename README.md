@@ -187,3 +187,11 @@ This opens the Expo dev tools in your browser.
 - Install **Expo Go** on your phone (Play Store / App Store).
 - Scan the QR code shown in Expo DevTools (or in the terminal).
 - Or click `Run on Android device/emulator` / `Run on iOS simulator` from DevTools.
+
+---
+
+# Group Members:
+
+- Ali Sharjeel
+- Syeda Aliza Ayaz
+- Ghulam Fatima
